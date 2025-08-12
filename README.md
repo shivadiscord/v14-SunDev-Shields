@@ -18,7 +18,7 @@ Discord sunucunuzun güvenliğini sağlayan, v14 altyapısına sahip güçlü ko
 
 | Komut                  | Resim                                                                                                  |
 | ---------------------- | ------------------------------------------------------------------------------------------------------ |
-| Guard Ayarları | <img alt="image" src= "[https://github.com/ertucuk/Satilik-Ertu-Bots/assets/68440024/0ace299e-5642-48e4-8feb-0937d37f5e50](https://cdn.discordapp.com/attachments/1402811571780063305/1404855097649004604/image.png?ex=689cb4c4&is=689b6344&hm=1795592fa3ed3b06d37e8dbf3f818d87ceaf0b74093ef591110ff1e00a299add&)"> |
+| Guard Ayarları | <img alt="image" src= "https://cdn.discordapp.com/attachments/1402811571780063305/1404855097649004604/image.png?ex=689cb4c4&is=689b6344&hm=1795592fa3ed3b06d37e8dbf3f818d87ceaf0b74093ef591110ff1e00a299add&"> |
 | Görev 1.sayfa | <img alt="image" src="https://github.com/ertucuk/Satilik-Ertu-Bots/assets/68440024/661b0ec2-66ca-4591-a43a-dd00bc30d989"> |
 | Görev 2.sayfa | <img alt="image" src="https://github.com/ertucuk/Satilik-Ertu-Bots/assets/68440024/a69ba745-744b-4510-b199-ee0003205dec"> |
 | Yetkili Alma | <img alt="image" src="https://github.com/ertucuk/Satilik-Ertu-Bots/assets/68440024/4ac6b9d3-c411-48fe-b574-8bf2284c9f46"> |
