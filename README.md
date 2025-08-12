@@ -1,4 +1,4 @@
-<img width="715" height="413" alt="image" src="https://github.com/user-attachments/assets/8189b5a9-21a8-4a8a-9e57-99a0436f5cf1" /># v14 Guard Bot
+# v14 Guard Bot
 
 Discord sunucunuzun güvenliğini sağlayan, v14 altyapısına sahip güçlü koruma botu.
 
@@ -14,7 +14,7 @@ Discord sunucunuzun güvenliğini sağlayan, v14 altyapısına sahip güçlü ko
 
 ## ⚙️Görseller
 <details>
-  <summary>GÖREV SİSTEMİ</summary>
+  <summary>GUARD GÖRSELLER</summary>
 
 | Komut                  | Resim                                                                                                  |
 | ---------------------- | ------------------------------------------------------------------------------------------------------ |
