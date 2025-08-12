@@ -12,8 +12,7 @@ Discord sunucunuzun güvenliğini sağlayan, v14 altyapısına sahip güçlü ko
 
 ---
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/94490510688792576?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/1185163404609073173)
-[![Discord Presence](https://lanyard.cnrad.dev/api/94490510688792576?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/1335148436458307646)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1185163404609073173)](https://discord.com/users/1185163404609073173)
 
 ## ⚙️Görseller
 <details>
