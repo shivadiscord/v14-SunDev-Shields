@@ -20,7 +20,7 @@ Discord sunucunuzun güvenliğini sağlayan, v14 altyapısına sahip güçlü ko
 
 | Komut                  | Resim                                                                                                  |
 | ---------------------- | ------------------------------------------------------------------------------------------------------ |
-| Guard Ayarları | <img alt="image" src= "https://cdn.discordapp.com/attachments/1408561120716914808/1409099958849634324/image.png?ex=68ac261a&is=68aad49a&hm=f06720d035f20a5a3c394cb959ced4b4f0141198fbc34b10bd8f63baf647be10&"> |
+| Guard Ayarları | <img alt="image" src= "https://cdn.discordapp.com/attachments/1408561120716914808/1409101468874707015/image.png?ex=68ac2782&is=68aad602&hm=d5545784cdff756cd95bf0ba80b737cad4de941beb794e4f75fc1957f838861f&"> |
 | Koruma Ayarları | <img alt="image" src="https://cdn.discordapp.com/attachments/1408561120716914808/1409099058340958329/image.png?ex=68ac2543&is=68aad3c3&hm=7da1b97f391c968ecdf1b7b41e5c261478e4afa67f513b3c3d071118350022d6&"> |
 | Whitelist Yönetimi | <img alt="image" src="https://cdn.discordapp.com/attachments/1408561120716914808/1409099558440402955/image.png?ex=68ac25ba&is=68aad43a&hm=194f7f0b823df14e0d8952f232f208606512de3f368ead67880679351a6c1b4e&"> |
 | Log Durum | <img alt="image" src="https://cdn.discordapp.com/attachments/1408561120716914808/1409100288769527869/image.png?ex=68ac2668&is=68aad4e8&hm=d97ac3572cd4c415b72268b4bf2895d88aa0e5cba9d7de51871ab3a37aa2f95a&"> |
