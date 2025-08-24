@@ -11,10 +11,13 @@ Discord sunucunuzun güvenliğini sağlayan, v14 altyapısına sahip güçlü ko
 - Log sistemi
 
 ---
-
+## DİSCORD PROFİL
 [![Discord Presence](https://lanyard.cnrad.dev/api/1185163404609073173)](https://discord.com/users/1185163404609073173)
+## SERVER
+https://discord.gg/FKuPHhSPZU
+SATIN ALMAK İÇİN ÜSTEKİ LİNKE TIKLA
 
-## ⚙️Görseller
+## Görseller
 <details>
   <summary>GUARD GÖRSELLER</summary>
 
