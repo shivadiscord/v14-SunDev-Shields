@@ -17,6 +17,8 @@ Discord sunucunuzun güvenliğini sağlayan, v14 altyapısına sahip güçlü ko
 https://discord.gg/FKuPHhSPZU
 SATIN ALMAK İÇİN ÜSTEKİ LİNKE TIKLA
 
+## BOTLARI VOLTA KARDEŞİM İLE BERABER YAPIP SUNDUK
+
 ## Görseller
 <details>
   <summary>GUARD GÖRSELLER</summary>
